@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "appProyek",
+    "slug": "appProyek",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.yudhaprasetya.appProyek",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.yudhaprasetya.appProyek",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": ""
+  }
+}
